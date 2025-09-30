@@ -1,0 +1,26 @@
+{
+  "name": "nudark",
+  "displayName": "nuDark",
+  "description": "nuDark Theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "necdetuygur",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/necdetuygur/nudark"
+  },
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nuDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nuDark-color-theme.json"
+      }
+    ]
+  }
+}
