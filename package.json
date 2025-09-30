@@ -22,5 +22,6 @@
         "path": "./themes/nuDark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
