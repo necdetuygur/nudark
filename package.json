@@ -9,7 +9,7 @@
     "url": "https://github.com/necdetuygur/nudark"
   },
   "engines": {
-    "vscode": "^1.55.0"
+    "vscode": "^1.95.0"
   },
   "categories": [
     "Themes"
