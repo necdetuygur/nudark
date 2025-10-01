@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/necdetuygur/nudark"
   },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -22,6 +23,5 @@
         "path": "./themes/nuDark-color-theme.json"
       }
     ]
-  },
-  "icon": "icon.png"
+  }
 }
